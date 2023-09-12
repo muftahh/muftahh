@@ -1,5 +1,5 @@
 ## Hi there 👋
-i'm still beginner but i'll do my best, btw you can call me muftah 👍
+i'm still beginner but i'll do my best, btw you can call me <b>muftah</b> 👍
 
 
 Here are some ideas to get you started:
