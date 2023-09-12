@@ -7,5 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever
 - ⚡ Fun fact the power of anime is with me
 
-- IG : muftahh_
+
+## Connect with Me
+
+[![Test](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://www.instagram.com/muftahh_/)
 
