@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 [![Test](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://www.instagram.com/muftahh_/)
+[linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
 
