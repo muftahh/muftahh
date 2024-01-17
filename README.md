@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Connect with Me
-[![Test](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://www.instagram.com/muftahh_/)
-
-[![Test](https://camo.githubusercontent.com/d51d930386d92764b305790e73be2b9659d7c01995c5204313fb766f54646e5a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67)](https://www.linkedin.com/in/muftahhimnaser/)
+[![Test](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://www.instagram.com/muftahh_/) [![Test](https://camo.githubusercontent.com/d51d930386d92764b305790e73be2b9659d7c01995c5204313fb766f54646e5a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67)](https://www.linkedin.com/in/muftahhimnaser/)
 
 
 
