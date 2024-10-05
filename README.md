@@ -1,11 +1,8 @@
 ## Hi there 👋
-i'm still beginner but i'll do my best, btw you can call me <b>muftah</b> 👍
+i'm still learning but i'll do my best, btw you can call me <b>muftah</b> 👍
 
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning android development
-
+# about me : 
+I’m currently learning android development and web development, for android project i using Java and Kotlin and i use laravel, vue, and nuxt in web development, 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=muftahh&theme=tokyonight&show_icons=true"/>
